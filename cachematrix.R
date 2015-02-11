@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+#get generalized inverse matrix even not squared one
+library(MASS)
 
 makeCacheMatrix <- function(x = matrix()) {
           m<-NULL
